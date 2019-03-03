@@ -6,9 +6,12 @@
 
     <groupId>com.github.piatrovich</groupId>
     <artifactId>junit-review</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>${revision}</version>
 
     <properties>
+        <!-- Project version -->
+        <revision>0.1.0-SNAPSHOT</revision>
+
         <!-- code version -->
         <code.version>1.8</code.version>
 
