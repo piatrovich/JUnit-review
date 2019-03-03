@@ -1,1 +1,2 @@
-## JUnit Samples [![Build Status](https://travis-ci.org/piatrovich/JUnit-review.svg?branch=master)](https://travis-ci.org/piatrovich/JUnit-review)
+## JUnit Samples
+[![Build Status](https://travis-ci.org/piatrovich/JUnit-review.svg?branch=master)](https://travis-ci.org/piatrovich/JUnit-review) ![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/piatrovich/JUnit-review.svg) ![Repository Size](https://img.shields.io/github/repo-size/piatrovich/JUnit-review.svg) ![GitHub last commit](https://img.shields.io/github/last-commit/piatrovich/JUnit-review.svg)
